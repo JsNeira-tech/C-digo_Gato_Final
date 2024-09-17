@@ -1,0 +1,1 @@
+Iniciar programa con gato_IA.py
